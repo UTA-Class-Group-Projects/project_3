@@ -1,0 +1,51 @@
+"state","AlcoholTaxBeerTax","AlcoholTaxSpiritsTax","AlcoholTaxWineTax"
+"Alabama",0.53,0,1.7
+"Alaska",1.07,12.8,2.5
+"Arizona",0.16,3,0.84
+"Arkansas",0.23,2.5,0.75
+"California",0.2,3.3,0.2
+"Colorado",0.08,2.28,0.28
+"Connecticut",0.24,5.94,0.79
+"Delaware",0.26,4.5,1.63
+"Florida",0.48,6.5,2.25
+"Georgia",0.85,4.62,2.34
+"Hawaii",0.93,5.98,1.38
+"Idaho",0.15,0,0.45
+"Illinois",0.23,8.55,1.39
+"Indiana",0.12,2.68,0.47
+"Iowa",0.19,0,1.75
+"Kansas",0.18,2.5,0.3
+"Kentucky",0.08,1.92,0.5
+"Louisiana",0.4,3.03,0.76
+"Maine",0.35,0,0.6
+"Maryland",0.09,1.5,0.4
+"Massachusetts",0.11,4.05,0.55
+"Michigan",0.2,0,0.51
+"Minnesota",0.15,5.03,0.3
+"Mississippi",0.43,0,0.35
+"Missouri",0.06,2,0.42
+"Montana",0.14,0,1.06
+"Nebraska",0.31,3.75,0.95
+"Nevada",0.16,3.6,0.7
+"New Hampshire",0.3,0,0
+"New Jersey",0.12,5.5,0.88
+"New Mexico",0.41,6.06,1.7
+"New York",0.14,6.44,0.3
+"North Carolina",0.62,0,1
+"North Dakota",0.16,2.5,0.5
+"Ohio",0.18,0,0.32
+"Oklahoma",0.4,5.56,0.72
+"Oregon",0.08,0,0.67
+"Pennsylvania",0.08,0,0
+"Rhode Island",0.11,5.4,1.4
+"South Carolina",0.77,2.72,1.08
+"South Dakota",0.27,3.93,0.93
+"Tennessee",1.29,4.4,1.21
+"Texas",0.19,2.4,0.2
+"Utah",0.41,0,0
+"Vermont",0.26,0,0.55
+"Virginia",0.26,0,1.51
+"Washington",0.26,14.27,0.87
+"West Virginia",0.18,0,1
+"Wisconsin",0.06,3.28,0.25
+"Wyoming",0.02,0,0
