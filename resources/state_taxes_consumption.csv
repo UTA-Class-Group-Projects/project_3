@@ -1,0 +1,52 @@
+,State,Abbreviation,State_Code,Ethanol_per_Capita,Fatalities_Involving_Alcohol,Excessive_Drinking_Rate,Beer_Tax,Spirits_Tax,Wine_Tax
+0,Alabama,Ala.,AL,2.08,25.9,14.8,0.53,0.0,1.7
+1,Alaska,Alaska,AK,2.83,36.9,18.1,1.07,12.8,2.5
+2,Arizona,Ariz.,AZ,2.24,22.3,17.4,0.16,3.0,0.84
+3,Arkansas,Ark.,AR,1.92,25.7,15.9,0.23,2.5,0.75
+4,California,Calif.,CA,2.63,27.7,18.8,0.2,3.3,0.2
+5,Colorado,Colo.,CO,2.97,34.0,20.1,0.08,2.28,0.28
+6,Connecticut,Conn.,CT,2.5,30.4,19.2,0.24,5.94,0.79
+7,Delaware,Del.,DE,4.01,25.0,20.5,0.26,4.5,1.63
+8,District of Columbia,D.C.,DC,3.79,,,,,
+9,Florida,Fla.,FL,2.74,22.0,20.2,0.48,6.5,2.25
+10,Georgia,Ga.,GA,1.91,20.7,17.8,0.85,4.62,2.34
+11,Hawaii,Hawaii,HI,2.71,31.5,20.7,0.93,5.98,1.38
+12,Idaho,Idaho,ID,2.1,31.5,19.6,0.15,0.0,0.45
+13,Illinois,Ill.,IL,2.42,28.8,22.9,0.23,8.55,1.39
+14,Indiana,Ind.,IN,2.34,19.0,17.7,0.12,2.68,0.47
+15,Iowa,Iowa,IA,2.34,26.8,24.6,0.19,0.0,1.75
+16,Kansas,Kans.,KS,2.12,19.4,20.0,0.18,2.5,0.3
+17,Kentucky,Ky.,KY,2.12,25.5,18.2,0.08,1.92,0.5
+18,Louisiana,La.,LA,2.59,31.2,21.9,0.4,3.03,0.76
+19,Maine,Maine,ME,2.99,34.4,22.5,0.35,0.0,0.6
+20,Maryland,Md.,MD,2.15,28.3,16.0,0.09,1.5,0.4
+21,Massachusetts,Mass.,MA,2.62,30.5,22.5,0.11,4.05,0.55
+22,Michigan,Mich.,MI,2.53,29.2,20.5,0.2,0.0,0.51
+23,Minnesota,Minn.,MN,2.85,29.9,23.4,0.15,5.03,0.3
+24,Mississippi,Miss.,MS,2.39,18.5,15.9,0.43,0.0,0.35
+25,Missouri,Mo.,MO,2.68,27.6,19.5,0.06,2.0,0.42
+26,Montana,Mont.,MT,3.32,46.4,24.3,0.14,0.0,1.06
+27,Nebraska,Nebr.,NE,2.17,33.2,23.2,0.31,3.75,0.95
+28,Nevada,Nev.,NV,3.43,27.3,19.5,0.16,3.6,0.7
+29,New Hampshire,N.H.,NH,4.83,33.1,20.8,0.3,0.0,0.0
+30,New Jersey,N.J.,NJ,2.63,22.8,16.0,0.12,5.5,0.88
+31,New Mexico,N.M.,NM,2.3,29.4,17.4,0.41,6.06,1.7
+32,New York,N.Y.,NY,2.22,20.2,19.0,0.14,6.44,0.3
+33,North Carolina,N.C.,NC,2.31,25.9,16.5,0.62,0.0,1.0
+34,North Dakota,N.D.,ND,3.26,41.4,24.1,0.16,2.5,0.5
+35,Ohio,Ohio,OH,2.12,32.5,20.7,0.18,0.0,0.32
+36,Oklahoma,Okla.,OK,1.85,26.8,14.5,0.4,5.56,0.72
+37,Oregon,Ore.,OR,2.71,27.9,21.2,0.08,0.0,0.67
+38,Pennsylvania,Pa.,PA,2.32,25.4,19.8,0.08,0.0,0.0
+39,Rhode Island,R.I.,RI,2.71,40.3,21.7,0.11,5.4,1.4
+40,South Carolina,S.C.,SC,2.12,32.8,21.7,0.77,2.72,1.08
+41,South Dakota,S.D.,SD,2.34,36.1,24.4,0.27,3.93,0.93
+42,Tennessee,Tenn.,TN,2.3,23.5,17.2,1.29,4.4,1.21
+43,Texas,Tex.,TX,2.41,25.4,19.6,0.19,2.4,0.2
+44,Utah,Utah,UT,1.36,21.7,11.9,0.41,0.0,0.0
+45,Vermont,Vt.,VT,3.22,35.4,23.2,0.26,0.0,0.55
+46,Virginia,Va.,VA,2.27,30.3,17.3,0.26,0.0,1.51
+47,Washington,Wash.,WA,2.26,32.7,16.5,0.26,14.27,0.87
+48,West Virginia,W.Va.,WV,1.82,26.1,15.2,0.18,0.0,1.0
+49,Wisconsin,Wis.,WI,3.11,35.6,25.2,0.06,3.28,0.25
+50,Wyoming,Wyo.,WY,2.94,31.8,20.5,0.02,0.0,0.0
