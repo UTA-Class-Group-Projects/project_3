@@ -14,7 +14,7 @@ We chose to use Python script with Pandas dataframes – in the Engineering Proj
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ERD Diagram was put together using QuickDBD.com - see link below.
+ERD Diagram was put together using QuickDBD.com - see link below.   The diagram can be found in our outputs folder.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
